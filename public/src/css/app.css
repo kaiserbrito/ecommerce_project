@@ -1,0 +1,27 @@
+body {
+	padding-top: 70px;
+}
+
+.thumbnail img {
+	height: 150px;
+}
+
+.thumbnail .description {
+	color: #615555;	
+}
+
+.price {
+	font-weight: bold;
+	font-size: 16px;
+}
+
+#footer a {
+	display: block;
+	padding:  15px;
+	border-radius: 6px;
+	border: 1px solid;
+	font-size: 13px;
+	font-weight: 700;
+	text-align: center;
+	background-color: transparent;
+}
